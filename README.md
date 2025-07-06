@@ -1,4 +1,7 @@
 # Sales-Performancce
+
+![Sales Performance](https://github.com/user-attachments/assets/460ca927-fca1-4942-bba7-3f7dd72c5e81)
+
 ## Dataset: This contains the dataset used in this analysis
 ## Pivot: This sheet contains all the pivot tables used for the dashboard development.
 
